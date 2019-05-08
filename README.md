@@ -1,6 +1,12 @@
 Workaround Repo for Drivesoftz/yii2-tcpdf
 ============================================================
 
+
+Updated do PHP 7.3
+
+
+
+
 This repository is only as a workaround for the now (one can only asssume) abandoned yii2-tcpdf package from Drivesoftz. I did write this code, I am not claiming to have written this code, this code is provided as is with no garauntee it will work in your project. I happen to have an existing copy of the code and am unable to continue dev on a current project without this package.
 
 Any questions about code can be addressed to: Eakkabin Jaikeawma (CoachMaxz) - eakkabin_it@outlook.co.th - https://drivesoft.co.th/
